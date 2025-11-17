@@ -1,0 +1,5 @@
+property,sport,rights_type,deal_name,sponsor_brand,sponsor_category,region,country,currency,deal_value_usd,start_date,end_date
+EWC,Esports,Sponsorship,Title Partner,STC Group,Telecoms,MENA,Saudi Arabia,USD,10000000,2024-01-01,2026-12-31
+Premier League,Football,Media Rights,UK Live Rights,Sky Sports,Broadcaster,Europe,United Kingdom,USD,7700000000,2025-08-01,2029-05-31
+LaLiga,Football,Sponsorship,Regional Partner,Coca-Cola,Beverages,Americas,Mexico,USD,2200000,2024-07-01,2026-06-30
+UEFA Champions League,Football,Sponsorship,Official Partner,Heineken,Beverages,Europe,Netherlands,USD,5000000,2025-01-01,2027-12-31
